@@ -1,0 +1,7 @@
+#+title: Python - Escola de Inverno - IFUSP - 2018
+#+author: Felippe Alves
+
+* Python - Escola de Inverno - Ifusp - 07/2018
+
+Esse repositório contém os notebooks dos tutoriais de programação em Python entre os dias 23/07/2018 e 27/07/2018 no IFUSP. 
+O curso teve como objetivo apresentar a linguagem, introduzir conceitos básicos e algumas técnicas elementares da linguagem que sejam úteis em análise de dados para alunos de graduação em Física (ou outras áreas da ciência).
